@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gU3aQVS3kyFBZThYpuQ3a5Nus60P9VIpZmrJuqrZSDmkxOF+H3YyBcY2TVZKEOx38gFXmUP1QhAADE3D2SQLAQ==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Basis\\Presentation\\Presentation.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marco\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.17.2\\microsoft.visualstudio.azure.containers.tools.targets.1.17.2.nupkg.sha512"
+  ],
+  "logs": []
+}
